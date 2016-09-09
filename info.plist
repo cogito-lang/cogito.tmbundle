@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>bff@ybpnylgvpf.pbz</string>
+	<key>contactName</key>
+	<string>Localytics</string>
+	<key>description</key>
+	<string>Language support for cogito.</string>
+	<key>name</key>
+	<string>Cogito</string>
+	<key>uuid</key>
+	<string>2DEE0A1C-E999-4E54-AC51-60F02949F21F</string>
+</dict>
+</plist>

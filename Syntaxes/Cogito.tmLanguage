@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array>
+		<string>iam</string>
+	</array>
+	<key>name</key>
+	<string>Cogito</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>match</key>
+			<string>\b(?i:allow|deny|on)\b</string>
+			<key>name</key>
+			<string>keyword.control.cogito</string>
+		</dict>
+		<dict>
+			<key>begin</key>
+			<string>//</string>
+			<key>end</key>
+			<string>\n</string>
+			<key>name</key>
+			<string>comment.line.cogito</string>
+		</dict>
+	</array>
+	<key>scopeName</key>
+	<string>source.iam</string>
+	<key>uuid</key>
+	<string>BE4E94D3-5696-4D89-BF36-8F752783CCB9</string>
+</dict>
+</plist>
