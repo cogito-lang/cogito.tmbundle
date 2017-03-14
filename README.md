@@ -1,4 +1,4 @@
-# Cogito Language Definition Bundle
+# Cogito language definition bundle
 
 Get Cogito syntax highlighting in [TextMate](http://macromates.com/) or [Sublime Text](http://www.sublimetext.com/) with this Language Definition bundle.
 
