@@ -12,7 +12,7 @@
 	<array>
 		<dict>
 			<key>match</key>
-			<string>\b(?i:allow|deny|on)\b</string>
+			<string>\b(?i:allow|deny|on|not)\b</string>
 			<key>name</key>
 			<string>keyword.control.cogito</string>
 		</dict>
